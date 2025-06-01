@@ -12,6 +12,7 @@ Built-in troubleshooting scenarios to simulate real-world network failures
 
 # Directory Structure
 Backend, Frontend and docker-compose.yml
+
 Backend:
 Dockerfile
 app.py
