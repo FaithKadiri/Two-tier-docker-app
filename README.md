@@ -4,7 +4,11 @@ Building a simple dockerized flask app
 
 # Project Overview
 This project includes:
-Frontend, 
-backend, 
-a docker-compose.yml to run both services and 
-a CI pipeline with github actions
+- Flask
+- PostgreSQL
+- Docker
+- Github actions
+
+## Run Project
+docker compose up --build
+
