@@ -1,6 +1,6 @@
 # Two-tier Docker App
 
-Building a simple dockerized flask app
+This project involves building a dockerized flask app
 
 # Project Overview
 This project includes:
